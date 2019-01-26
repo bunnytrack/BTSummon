@@ -22,6 +22,9 @@ e.g.
 
 The instigator will be notified if nothing is spawned after all attempts.
 
+## Monsters
+Also available is the ability to spawn a random monster via `mutate summon monstra`. This will summon a random creature from a total of 39 actors (mostly monsters, but also cows, birds, and nalis).
+
 ## Version
 2019-01-26
 
